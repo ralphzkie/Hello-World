@@ -1,2 +1,2 @@
 # Hello-World
-newbie, another repository
+newbie, first repository
